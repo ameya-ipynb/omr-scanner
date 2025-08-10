@@ -1,2 +1,2 @@
-# pythonforsci
-my freecode camp.org practice
+# omr scanner
+building omr scanner for school
